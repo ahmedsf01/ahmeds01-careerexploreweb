@@ -1,0 +1,33 @@
+body {
+	font-family: Georgia, "Times New Roman", serif;
+  color: darkslateblue;
+  background-color: #ADD8E6
+}
+
+table {
+
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+a:visited {
+  color: #FFC0CB;
+}
+a:link {
+  color: #964B00;
+}
+
+/* Centered Image Code */
+
+ .center {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
